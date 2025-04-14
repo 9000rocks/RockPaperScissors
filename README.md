@@ -17,6 +17,12 @@ cd RockPaperScissors
 code .
 - create a file (i.e., rps.cpp for C++)
 - code stuff and test it by compiling and running
+- add all changed files (staging)
+- configure git
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+- commit changes with a message describing them
+- push repo to origin
 
 ## How to play
 
